@@ -10,8 +10,8 @@ Swift-Number-Match is a simple number matching game, originally created using Sw
 ## Getting Started
 To start using Swift-Number-Match, you can clone the repository to your local machine. Make sure you have Xcode installed to run and modify the project.
 
-```bash
-git clone https://github.com/justinyhchoi/Swift-Number-Match.git
+``bash
+git clone https://github.com/justinyhchoi/Swift-Number-Match.git``
 
 ## Requirements
 iOS device or simulator
